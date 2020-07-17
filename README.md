@@ -7,7 +7,8 @@ TYPE THE FOLLOWING IN CMD <br/>
 </p>
 npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context<br/>
 npm install @react-native-community/masked-view react-navigation react-navigation-stack<br/>
-To check the installed dependencies Goto package.json file and check the dependencies, if you installed everything correctly you will have like this<br/>
+To check the installed dependencies Goto package.json file and check the dependencies, if you installed everything correctly you will have like this<br/><br/>
+
   "dependencies": {<br/>
     "@react-native-community/masked-view": "^0.1.10",<br/>
     "react": "16.13.1",<br/>
