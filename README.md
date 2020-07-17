@@ -1,6 +1,6 @@
 # BasicEgUsingStackNavigator
-Dependencies: ----> 1) react-navigation-stack ----> 2) react-navigation ----> 3) react-native-screens
-----> 4) react-native-safe-area-context ----> 5)react-native-reanimated ----> 6) react-native-gesture-handler
+Dependencies: ----> 1) react-navigation-stack<br/> ----> 2) react-navigation<br/> ----> 3) react-native-screens<br/>
+----> 4) react-native-safe-area-context<br/> ----> 5)react-native-reanimated<br/> ----> 6) react-native-gesture-handler<br/>
 
 ------------>>>>>>>>>>>>>>>>>>> TO INSTALL THE DEPENDENCIES <<<<<<<<<<<<<<----------------------------------------------------
 *************************************************  TYPE THE FOLLOWING IN CMD *************************************************
